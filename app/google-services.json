@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "515833759420",
+    "firebase_url": "https://heyimgrump-36985.firebaseio.com",
+    "project_id": "heyimgrump-36985",
+    "storage_bucket": "heyimgrump-36985.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:515833759420:android:fc1b1a6c91f760ea",
+        "android_client_info": {
+          "package_name": "janzantinga.com.heyimgrump"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "515833759420-jpc26mat2n0k7p5mlcgmtc2bmjo4k49c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "janzantinga.com.heyimgrump",
+            "certificate_hash": "851a169259871a4fabb63151c24371feb23cd885"
+          }
+        },
+        {
+          "client_id": "515833759420-8kk5sj4555ncpmh76pddepkc2jfg56qf.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDVRa5FnU2ZATNDIlw3FNzgbemoOSkrLnA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "515833759420-8kk5sj4555ncpmh76pddepkc2jfg56qf.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
