@@ -11,7 +11,6 @@ import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 
 public class MainActivity extends Activity {
-    private static final String TAG = "MainActivity";
 
     private AdView mAdView;
     static MediaPlayer grump;
